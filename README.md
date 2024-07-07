@@ -5,18 +5,18 @@ This project analyzes IPL match data from 2008 to 2022 to gain insights into var
 
 
 ## Data Sources
-•	Match Data: A CSV file containing information about each match, including date, teams, venue, toss, result, and margin of victory.
-•	Ball-by-Ball Data: A CSV file containing detailed information about each ball bowled in every match, including runs scored, wickets taken, and extra runs.
+-**Match Data**: A CSV file containing information about each match, including date, teams, venue, toss, result, and margin of victory.
+-**Ball-by-Ball Data**: A CSV file containing detailed information about each ball bowled in every match, including runs scored, wickets taken, and extra runs.
 Data Cleaning and Preparation
-•	Handling Missing Data: Identified and addressed missing values in both datasets.
-•	Data Type Conversion: Converted relevant columns to appropriate data types (e.g., dates, integers).
-•	Feature Engineering: Created new features like "No. of Hundereds" and "No. of Fifties" to analyze batsman performance.
+-**Handling Missing Data**: Identified and addressed missing values in both datasets.
+-**Data Type Conversion**: Converted relevant columns to appropriate data types (e.g., dates, integers).
+-**Feature Engineering**: Created new features like "No. of Hundereds" and "No. of Fifties" to analyze batsman performance.
 Features Analyzed
-•	Team Performance: Analyzed team win percentage, winning mode (wickets or runs), and toss preference.
-•	Player Performance: Identified top run-scorers, wicket-takers, and players with the most centuries and half-centuries.
-•	Venue Impact: Investigated the influence of different venues on match outcomes.
-•	Toss Decision: Examined the impact of winning the toss on match results.
-•	Season Trends: Identified season-wise trends in toss decisions, winning teams, and match outcomes.
+-**Team Performance**: Analyzed team win percentage, winning mode (wickets or runs), and toss preference.
+-**Player Performance**: Identified top run-scorers, wicket-takers, and players with the most centuries and half-centuries.
+-**Venue Impact**: Investigated the influence of different venues on match outcomes.
+-**Toss Decision**: Examined the impact of winning the toss on match results.
+-**Season Trends**: Identified season-wise trends in toss decisions, winning teams, and match outcomes.
 
 
 ## Impactful Findings
